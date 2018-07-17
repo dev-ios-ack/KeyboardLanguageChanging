@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  KeyboardLanguageChanging
-//
-//  Created by Akihito Haga on 2018/07/17.
-//  Copyright © 2018年 Akihito Haga. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
